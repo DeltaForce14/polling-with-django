@@ -1,0 +1,13 @@
+
+/* link color, color of the Questions */
+
+li a {
+    color:#0d50bd;
+}
+
+
+/* adding background image */
+
+body {
+    background: white url("images/background.gif") no-repeat;
+}
